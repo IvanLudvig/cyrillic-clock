@@ -1,8 +1,7 @@
 @font-face {
-    font-family: 'kirinu04';
+    font-family: 'Kirillica Nova';
     src: url('kirinu04.ttf') format('truetype');
-    font-weight: 900;
-    font-style: normal;
+    font-weight: bold;
 }
 
 #container {
@@ -10,14 +9,12 @@
     height: 100vh;
     background-color: black;
     overflow: hidden;
-    font-family: 'kirinu04';
     text-transform: uppercase;
-    color: #fff;
     user-select: none;
 }
 
 body {
     padding: 0;
     margin: 0;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Kirillica Nova';
 }
